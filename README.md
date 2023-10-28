@@ -39,4 +39,5 @@ npm install
 ```bash
 npm run dev
 ```
+Проект будет доступен по адресу http://localhost:3000
 
