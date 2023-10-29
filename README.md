@@ -16,7 +16,7 @@
 
 Проект написан в соответствии с методологией Feature Sliced Design
 
-Ссылка на документацию - [feature sliced design](https://feature-sliced.design/docs/get-started/tutorial)
+Ссылка на документацию - [feature sliced design](https://feature-sliced.design)
 
 ----
 
